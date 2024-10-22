@@ -121,6 +121,7 @@
                         <span>No One With This Name</span>
                     @endif
                 </table>
+                <br>
                 <x-footer />
     </div>
     
